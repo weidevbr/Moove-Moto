@@ -1,0 +1,336 @@
+  
+body {
+	
+	height: 100%;
+	overflow: auto;
+	background: #FFFFFF;
+	scroll-behavior: smooth;
+
+
+}
+html{
+	scroll-behavior: smooth;
+}
+
+
+.caixa{
+	
+	text-decoration: none;
+    background-image: linear-gradient(-90deg, #ed9514ff, #FF8C00,#ffcc00ff);
+	width: 100%;
+	display: inline-block;
+	position: fixed;
+	z-index: 8;
+	
+
+}
+.caixa2{
+	
+	text-decoration: none;
+    background-color: #FFFFFF ;
+	width: 100%;
+	display: inline-block;
+	position: fixed;
+	z-index: 10;
+	border-bottom: solid 1px  #ffff00ff;
+	background-image: none;
+	opacity: 0.9;
+
+
+
+
+}
+.logo {
+	
+	padding:10px 10px 10px 100px ;
+	position: relative;
+	text-align: center;
+	width: 50px;
+}
+ li a img{
+	
+	border:none;
+}
+ ul li{
+	
+	display: inline-block;
+	float: left;
+	text-decoration: none;
+
+}
+.menu{
+	
+	size:30px;
+	margin-top:30px;
+	padding-left: 50px;
+	text-decoration: none;
+
+	
+}
+
+.link{
+
+	color: #FFFFFF;
+}
+
+.link2 {
+
+ 	color:#363636;
+}
+
+
+
+li a{
+	
+	text-decoration: none;
+	clear: all;
+	color: #FFFFFF;
+	font-size: 15px ;
+	font-family: Arial, Helvetica, sans-serif;
+}
+li a:hover{
+	
+	color: #ed9514ff;
+}
+
+li h1 a{
+
+	padding-right: 0px;
+	size:30px;
+	padding-top:20px;
+	text-decoration: none;
+	float: left;
+	font: 20px Verdana;
+	color: #1C1C1C;
+	font-weight: bold;
+
+}
+li h1 a:hover{
+
+	padding-right: 0px;
+	size:30px;
+	padding-top:20px;
+	text-decoration: none;
+	float: left;
+	font: 20px Verdana;
+	color: #000000;
+	font-weight: bold;
+
+}
+.botao a{
+
+	display: inline-block;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 150px;
+	text-decoration: none;
+	font-weight: bold;
+	margin-top: 18px;
+	border:solid 1.5px ;
+	padding: 10px 15px;
+	border-radius: 25px; 
+	z-index: 10;
+
+}
+.botao a:hover{
+
+	background: #FAAA49;
+	border:solid 1px #ed9514ff;
+	transition: 0.4s ease-in;
+
+}
+
+.botao2 a:hover{
+
+	border-radius: 25px;
+	background: #ed9514ff;
+	border:solid 1px #ed9514ff;
+	transition: 0.4s ease-in;
+
+
+}
+.botao2 a{
+	
+	display: inline-block;
+	color: #FFFFFF;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 150px;
+	text-decoration: none;
+	font-weight: bold;
+	margin-top: 18px;
+	padding: 10px 15px;
+	border-radius: 25px;
+	background:#DD8706;
+	border:solid 1px #DD8706;
+
+
+
+}
+
+.main{
+
+	background-image: linear-gradient(-90deg, #ed9514ff,#FF8C00,#ffcc00ff);
+	display: inline-block;
+	width: 100%;
+	margin-top: 75px;
+	line-height: 1.1;
+}
+
+.main h1{
+
+	font-size: 50px;
+	color: #FFFFFF;
+	padding-left: 100px;
+	padding-top: 60px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 b{
+
+	font-weight: bold;
+}
+
+main p{
+
+	font-size: 20px;
+	color: #FFFFFF;
+	padding-left: 100px;
+	position: relative;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.baixar a{
+
+	display: inline-block;
+	clear: all;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 100px;
+	text-decoration: none;
+	font-weight: bold;
+	margin-top: 18px;
+	margin-bottom: 100px;
+	background: #FF9900;
+	padding: 20px 30px;
+	border-radius: 30px;
+	border: solid 1px #ffffff;
+	
+
+
+}
+
+.baixar a:hover{
+
+	background:#ed9514ff;
+	transition: 0.4s ease-in;
+	border: solid 1px #ed9514ff;
+}
+.banner img{
+
+	display: inline-block;
+	float: left;
+	width: 400px;
+	padding-left: 550px;
+	margin-top: -630px;
+	float: left;
+}
+
+#pass img{
+
+
+	display: inline-block;
+	width: 500px;
+	padding-left: 830px;
+	margin-top: -585px;
+	float: left;
+	height: 510px;
+	
+	
+}
+
+section{
+	
+	line-height: 1.1;
+	background: #FFD700;
+}
+section h1, section p{
+	margin-left: 550px;
+}
+section img{
+
+	display: inline-block;
+	width: 700px;
+	margin-left: -40px;
+	margin-top: -300px;
+	
+}
+.vantagens img{
+
+	display: flex;
+	border-radius: 35%;
+	width: 400px;
+	margin-top: -300px;
+	margin-left: 800px;
+	margin-bottom: 20px;
+}
+
+section span h1{
+
+	margin-left: 0px;
+	font-weight: bold;
+
+}
+section span p{
+
+	margin-left: 0px;
+}
+.logo2 {
+
+	width: 40px;
+	padding-left: 100px;
+	padding-top: 20px;
+	display: inline-block;
+}
+footer {
+	width: 100%;
+    background: black;
+    opacity: 0.9;
+
+   
+}
+
+footer ul {
+
+    display: flex;
+     float: right;
+     margin-right: 150px;
+     margin-top: 30px;
+
+ 
+}
+
+footer ul li {
+    display: inline-block;
+    padding: 5px;
+    
+
+}
+
+.icones-sociais img{
+
+	width: 30px;
+
+}
+.col {
+
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 15px;
+	margin-right: 120px;
+	position: flex;
+
+}
