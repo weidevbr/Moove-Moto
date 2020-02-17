@@ -1,5 +1,5 @@
 # Moove-Moto
-Site criado para dar suporte ao meu projeto de desenvolvimento de um app android de solução de transporte e lógistica.
+Site criado para dar suporte ao meu projeto de desenvolvimento de um app android de solução de transporte e lógistica.utilizando Js e Jquery.
 
 # Site em funcionamento tela principal index 
 
