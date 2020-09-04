@@ -3,7 +3,6 @@ Site criado para dar suporte ao meu projeto de desenvolvimento de um app android
 
 # Site em funcionamento tela principal index 
 
-*Outras páginas ainda estão em desenvolvimento , inclusive o próprio App.
 
 ![pagina1](https://user-images.githubusercontent.com/56487602/72221297-01a12480-3538-11ea-916a-ea5d7e8a19f5.jpg)
 
